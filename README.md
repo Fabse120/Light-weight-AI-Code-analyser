@@ -21,7 +21,6 @@ Create a Python tool that checks code for code smells, best practices, and secur
 - **The Tool Provides Concrete Suggestions on How to Refactor the Code to Fix Errors, Code Smells, and Security Vulnerabilities**
 
 
-
 # Used LLM: StarCoder
 
 ## Why StarCoder is Perfectly Fitted for a Code Analyzer
@@ -51,3 +50,7 @@ Being part of the Hugging Face ecosystem, StarCoder benefits from a large commun
 StarCoder's specialization in code, multilingual support, advanced code understanding, integration capabilities, performance, customizability, and community support make it an ideal choice for a code analyzer. Its ability to understand and generate code accurately and efficiently makes it a valuable tool for developers seeking to enhance their coding workflow.
 
 https://huggingface.co/bigcode/starcoder/tree/main
+
+
+## Further ideas for this project
+Creation of a VSCodium plugin that automatically analyzes the written Code.
