@@ -21,7 +21,7 @@ Create a Python tool that checks code for code smells, best practices, and secur
 - **The Tool Provides Concrete Suggestions on How to Refactor the Code to Fix Errors, Code Smells, and Security Vulnerabilities**
 
 
-## Used LLM: StarCoder
+## LLM: StarCoder
 
 ### Why StarCoder is Perfectly Fitted for a Code Analyzer
 
